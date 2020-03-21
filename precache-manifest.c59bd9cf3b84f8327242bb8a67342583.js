@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "429b7d13496de2fb2ed71e842bdbc962",
+    "revision": "691dbfc89ad9b1f7a36e676c63b7117c",
     "url": "/sber-cur/index.html"
   },
   {
-    "revision": "184bb127c4a523b1e540",
+    "revision": "4866d3c32719e7ac72e2",
     "url": "/sber-cur/static/css/main.e133ff2e.chunk.css"
   },
   {
-    "revision": "2ad2363277380d306de1",
-    "url": "/sber-cur/static/js/2.fb382575.chunk.js"
+    "revision": "4f639e58184a2c1358d3",
+    "url": "/sber-cur/static/js/2.94bb331e.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/sber-cur/static/js/2.fb382575.chunk.js.LICENSE.txt"
+    "url": "/sber-cur/static/js/2.94bb331e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "184bb127c4a523b1e540",
-    "url": "/sber-cur/static/js/main.de6e5cc5.chunk.js"
+    "revision": "4866d3c32719e7ac72e2",
+    "url": "/sber-cur/static/js/main.61b74e4a.chunk.js"
   },
   {
     "revision": "99a846b8f9712bc417f0",
