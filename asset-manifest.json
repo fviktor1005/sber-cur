@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sber-cur/static/css/main.e133ff2e.chunk.css",
+    "main.js": "/sber-cur/static/js/main.de6e5cc5.chunk.js",
+    "main.js.map": "/sber-cur/static/js/main.de6e5cc5.chunk.js.map",
+    "runtime-main.js": "/sber-cur/static/js/runtime-main.a0a8adc0.js",
+    "runtime-main.js.map": "/sber-cur/static/js/runtime-main.a0a8adc0.js.map",
+    "static/js/2.fb382575.chunk.js": "/sber-cur/static/js/2.fb382575.chunk.js",
+    "static/js/2.fb382575.chunk.js.map": "/sber-cur/static/js/2.fb382575.chunk.js.map",
+    "index.html": "/sber-cur/index.html",
+    "precache-manifest.a33c30fb5174724f014b813ac19d8374.js": "/sber-cur/precache-manifest.a33c30fb5174724f014b813ac19d8374.js",
+    "service-worker.js": "/sber-cur/service-worker.js",
+    "static/css/main.e133ff2e.chunk.css.map": "/sber-cur/static/css/main.e133ff2e.chunk.css.map",
+    "static/js/2.fb382575.chunk.js.LICENSE.txt": "/sber-cur/static/js/2.fb382575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0a8adc0.js",
+    "static/js/2.fb382575.chunk.js",
+    "static/css/main.e133ff2e.chunk.css",
+    "static/js/main.de6e5cc5.chunk.js"
+  ]
+}
